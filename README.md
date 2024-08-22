@@ -1,3 +1,5 @@
+A relay-based arduino micro solution to add tri-sync autoswitch on the MS9-29 arcade monitor chassis
+
 References :
 - Hatsune Mike's original MS9 hack page :  
 http://mikejmoffitt.com/pages/ms9-hax/
